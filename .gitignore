@@ -1,0 +1,15 @@
+# Dart & Flutter
+.dart_tool/
+build/
+.idea/
+.packages
+pubspec.lock
+
+# Android
+android/app/build/
+*.apk
+*.dex
+*.so
+
+# iOS
+ios/Pods/
