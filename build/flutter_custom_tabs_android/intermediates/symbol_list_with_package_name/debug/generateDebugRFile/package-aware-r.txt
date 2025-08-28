@@ -1,3 +1,0 @@
-com.github.droibit.plugins.flutter.customtabs
-drawable fct_ic_arrow_back
-raw keep
