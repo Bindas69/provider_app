@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.iqonic.provider.app-mergeDebugResources-121:/values-mi/values-mi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Albatrosstech\\.gradle\\caches\\8.11.1\\transforms\\1aa4c001b079e2c679769fd28aa18ae5\\transformed\\jetified-hcaptcha-21.6.0\\res\\values-mi\\values-mi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "83",
+                        "endOffsets": "134"
+                    }
+                }
+            ]
+        }
+    ]
+}

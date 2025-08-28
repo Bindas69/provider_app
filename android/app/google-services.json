@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "647656065766",
+    "project_id": "provider-pak-mechanic",
+    "storage_bucket": "provider-pak-mechanic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647656065766:android:3f6e2af805e9da8a844927",
+        "android_client_info": {
+          "package_name": "com.iqonic.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647656065766-viqsbbffbvl3bn4g50qfeh6snvhl6957.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqonic.provider",
+            "certificate_hash": "d8888e2fe1d1995facc021d26ae3c87a119c47ed"
+          }
+        },
+        {
+          "client_id": "647656065766-19ujkkvdf9qvlsr1fhdjeqodp7s7cpeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwB7FePtiULoJrzQLH06HP4LKdm2Io3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647656065766-19ujkkvdf9qvlsr1fhdjeqodp7s7cpeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

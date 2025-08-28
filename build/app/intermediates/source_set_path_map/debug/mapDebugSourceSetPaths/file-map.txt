@@ -1,0 +1,159 @@
+com.iqonic.provider.app-core-1.16.0-0 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\00ca8c8e5087f2cea611ad3d3cc72565\transformed\core-1.16.0\res
+com.iqonic.provider.app-swiperefreshlayout-1.1.0-1 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\01050eb57d2200005bf49b53a19eef54\transformed\swiperefreshlayout-1.1.0\res
+com.iqonic.provider.app-jetified-datastore-core-release-2 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\0323f1dcc98a2a360b756e15aefb0580\transformed\jetified-datastore-core-release\res
+com.iqonic.provider.app-jetified-ui-viewbinding-1.6.8-3 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\0357d302fb29c82b1aaaad2f398c552a\transformed\jetified-ui-viewbinding-1.6.8\res
+com.iqonic.provider.app-jetified-play-services-wallet-19.4.0-4 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\036d472eea19375ffb4e7c77e43a90a7\transformed\jetified-play-services-wallet-19.4.0\res
+com.iqonic.provider.app-jetified-runtime-saveable-release-5 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\04461cd58e0d6ee45e44933290285b4e\transformed\jetified-runtime-saveable-release\res
+com.iqonic.provider.app-jetified-play-services-auth-21.1.0-6 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\0885e74af69a2ce7e396b6b6e9002728\transformed\jetified-play-services-auth-21.1.0\res
+com.iqonic.provider.app-jetified-lifecycle-livedata-core-ktx-2.8.7-7 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\08ac01e894fe271561f38fc5ed563605\transformed\jetified-lifecycle-livedata-core-ktx-2.8.7\res
+com.iqonic.provider.app-jetified-lifecycle-runtime-release-8 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\0ea10dbc2c1f0dd8f98d97352a48fde6\transformed\jetified-lifecycle-runtime-release\res
+com.iqonic.provider.app-jetified-core-ktx-1.16.0-9 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\0ee7732ac2888da375ba9c2ab59669c8\transformed\jetified-core-ktx-1.16.0\res
+com.iqonic.provider.app-jetified-play-services-base-18.5.0-10 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\1428976efc9086d76ef2b78f71df272e\transformed\jetified-play-services-base-18.5.0\res
+com.iqonic.provider.app-jetified-savedstate-1.2.1-11 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\14cdbc0a68089dd2f5cd32550d1eb4b2\transformed\jetified-savedstate-1.2.1\res
+com.iqonic.provider.app-jetified-datastore-preferences-release-12 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\157728f114f2bdb5ac35aec72d5ca27f\transformed\jetified-datastore-preferences-release\res
+com.iqonic.provider.app-jetified-material-ripple-release-13 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\1903923a5a14f3a0d2059eb087fc2c30\transformed\jetified-material-ripple-release\res
+com.iqonic.provider.app-jetified-hcaptcha-21.6.0-14 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\1aa4c001b079e2c679769fd28aa18ae5\transformed\jetified-hcaptcha-21.6.0\res
+com.iqonic.provider.app-jetified-financial-connections-21.6.0-15 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\1b549f41a8bf7e0c68d9752c0d3d7738\transformed\jetified-financial-connections-21.6.0\res
+com.iqonic.provider.app-jetified-window-java-1.2.0-16 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\202dfc278545e0ff0666dbc001dfce70\transformed\jetified-window-java-1.2.0\res
+com.iqonic.provider.app-media-1.1.0-17 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\217b41488fe69ef0e7dd3975de67c41c\transformed\media-1.1.0\res
+com.iqonic.provider.app-jetified-ui-util-release-18 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\248f2e1087fb616aa633e3d7dafcc140\transformed\jetified-ui-util-release\res
+com.iqonic.provider.app-jetified-lifecycle-livedata-ktx-2.8.7-19 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\25c80da095c8c4254b1e5c650e780d19\transformed\jetified-lifecycle-livedata-ktx-2.8.7\res
+com.iqonic.provider.app-jetified-purchases-9.2.0-20 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\31a68b6dad89f3b957a098fa315386dc\transformed\jetified-purchases-9.2.0\res
+com.iqonic.provider.app-jetified-standard-core-1.6.54-21 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\33a6175950ca365a294e65717635f32c\transformed\jetified-standard-core-1.6.54\res
+com.iqonic.provider.app-jetified-navigation-compose-2.7.7-22 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\3668d74b9361a063e3b01d2cab5b2346\transformed\jetified-navigation-compose-2.7.7\res
+com.iqonic.provider.app-jetified-core-viewtree-1.0.0-23 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\36934b7fb54c18118981a744df6992cd\transformed\jetified-core-viewtree-1.0.0\res
+com.iqonic.provider.app-jetified-payments-model-21.6.0-24 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\3816d9eb614c889426eca34c93f9aaf7\transformed\jetified-payments-model-21.6.0\res
+com.iqonic.provider.app-jetified-zxing-android-embedded-3.5.0-25 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\391a0cfe6353a7a09ae1b13dbe4fade0\transformed\jetified-zxing-android-embedded-3.5.0\res
+com.iqonic.provider.app-jetified-accompanist-themeadapter-material-0.34.0-26 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\39a2c98b3a75298a48115fbaaac28231\transformed\jetified-accompanist-themeadapter-material-0.34.0\res
+com.iqonic.provider.app-jetified-fragment-ktx-1.8.6-27 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\3b9ea0b6751a860c38739f0bdede682b\transformed\jetified-fragment-ktx-1.8.6\res
+com.iqonic.provider.app-jetified-material-icons-core-release-28 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\3f83724407430e67695752d6eedc186a\transformed\jetified-material-icons-core-release\res
+com.iqonic.provider.app-jetified-ui-graphics-release-29 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\47ad520a9141adebd534b97c76974b3d\transformed\jetified-ui-graphics-release\res
+com.iqonic.provider.app-jetified-ads-adservices-1.1.0-beta11-30 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\47cb3f41de2fe4f409a5d32bf5870957\transformed\jetified-ads-adservices-1.1.0-beta11\res
+com.iqonic.provider.app-navigation-common-2.7.7-31 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\4a8623402e94c48c1a3c0c02a875f5a2\transformed\navigation-common-2.7.7\res
+com.iqonic.provider.app-jetified-core-1.0.0-32 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\4a88bb3caf205390f9b6308abe32c5b6\transformed\jetified-core-1.0.0\res
+com.iqonic.provider.app-jetified-savedstate-ktx-1.2.1-33 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\4c1514fa1c2872b9d2b8ffb4eaaced0b\transformed\jetified-savedstate-ktx-1.2.1\res
+com.iqonic.provider.app-jetified-lifecycle-runtime-ktx-release-34 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\4c380244014838f20de715d29f716d66\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.iqonic.provider.app-jetified-payments-core-21.6.0-35 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\4c7192b6ca8d06f0b936f9bc1dc8da5e\transformed\jetified-payments-core-21.6.0\res
+com.iqonic.provider.app-jetified-better-link-movement-method-2.2.0-36 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\4d2fa5ca94e44f680a91065e6ce32582\transformed\jetified-better-link-movement-method-2.2.0\res
+com.iqonic.provider.app-jetified-emoji2-views-helper-1.3.0-37 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\56051c2a7e66a7029790e8b3eef0984e\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.iqonic.provider.app-jetified-lifecycle-viewmodel-release-38 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\5748d58a4d17618d9de63c412375c040\transformed\jetified-lifecycle-viewmodel-release\res
+com.iqonic.provider.app-jetified-foundation-release-39 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\582b9cfd54cc2059e994168c6fa103ac\transformed\jetified-foundation-release\res
+com.iqonic.provider.app-jetified-appcompat-resources-1.7.0-40 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\58b042ba90a1042807fc74f2d32a8524\transformed\jetified-appcompat-resources-1.7.0\res
+com.iqonic.provider.app-jetified-IntentSDK-5.1.1-41 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\58eecc41734738344ee264449c6af743\transformed\jetified-IntentSDK-5.1.1\res
+com.iqonic.provider.app-jetified-tracing-1.2.0-42 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\5d2a80f67513af3698bf0239e6ec0005\transformed\jetified-tracing-1.2.0\res
+com.iqonic.provider.app-preference-1.2.1-43 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\5f15b586cef18c3c89107854204d17c6\transformed\preference-1.2.1\res
+com.iqonic.provider.app-jetified-emoji2-1.3.0-44 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\60f4df4ad8840ab69fb9ce0b891aa5a0\transformed\jetified-emoji2-1.3.0\res
+com.iqonic.provider.app-jetified-ui-geometry-release-45 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\6113452e1d2eb4a7b4e8779e2c98b3b9\transformed\jetified-ui-geometry-release\res
+com.iqonic.provider.app-jetified-accompanist-themeadapter-core-0.34.0-46 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\62cde65a5bcd8cbec53012b64224a180\transformed\jetified-accompanist-themeadapter-core-0.34.0\res
+com.iqonic.provider.app-constraintlayout-2.2.0-47 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\657eb138550faa374bed91d3f085393f\transformed\constraintlayout-2.2.0\res
+com.iqonic.provider.app-jetified-ui-release-48 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\6bca109a9085058bf4ebe99457fd3ead\transformed\jetified-ui-release\res
+com.iqonic.provider.app-jetified-datastore-release-49 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\6eefc05b4d05be45a7aedfe144221e82\transformed\jetified-datastore-release\res
+com.iqonic.provider.app-jetified-play-services-maps-19.2.0-50 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\6f7a52dd82b482124b849f923e70bc80\transformed\jetified-play-services-maps-19.2.0\res
+com.iqonic.provider.app-recyclerview-1.3.2-51 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\701e21a5065e80711c4fad14209b8421\transformed\recyclerview-1.3.2\res
+com.iqonic.provider.app-jetified-animation-core-release-52 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\7158e176188e5b750b1778642b2eb548\transformed\jetified-animation-core-release\res
+com.iqonic.provider.app-jetified-profileinstaller-1.4.0-53 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\71951eb64c6a3f5959730d74ecfe8e7e\transformed\jetified-profileinstaller-1.4.0\res
+com.iqonic.provider.app-appcompat-1.7.0-54 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\721cf75e18e40a32ed589f312ee90771\transformed\appcompat-1.7.0\res
+com.iqonic.provider.app-navigation-common-ktx-2.7.7-55 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\74d3cdccf45430e88277c62b39401f19\transformed\navigation-common-ktx-2.7.7\res
+com.iqonic.provider.app-jetified-stripe-ui-core-21.6.0-56 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\798bb355f7cb2edb43e0b6f7bd6a3a4c\transformed\jetified-stripe-ui-core-21.6.0\res
+com.iqonic.provider.app-jetified-animation-release-57 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\7a32465ed759940fb3e98da935e85c7f\transformed\jetified-animation-release\res
+com.iqonic.provider.app-jetified-paymentsheet-21.6.0-58 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\7c6c3044e462219c5a61e45a9dc06888\transformed\jetified-paymentsheet-21.6.0\res
+com.iqonic.provider.app-jetified-ui-tooling-preview-release-59 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\7e0849c8ef8007db82a5004efd4f730f\transformed\jetified-ui-tooling-preview-release\res
+com.iqonic.provider.app-jetified-ui-unit-release-60 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\83a0e547b4e7e626b570c9e038e44aa6\transformed\jetified-ui-unit-release\res
+com.iqonic.provider.app-jetified-analytics-1.7.1-SANDBOX-61 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\83bae06cf2394fa6908ace92bf5f86d7\transformed\jetified-analytics-1.7.1-SANDBOX\res
+com.iqonic.provider.app-jetified-annotation-experimental-1.4.1-62 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\8441b28b514947edc5d7a3aaa44e7792\transformed\jetified-annotation-experimental-1.4.1\res
+com.iqonic.provider.app-jetified-material3-1.0.1-63 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\84f8c15424d6219565939dbf11fb8649\transformed\jetified-material3-1.0.1\res
+com.iqonic.provider.app-jetified-credentials-1.2.0-rc01-64 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\86b4728f442b74e3469206fda705eab3\transformed\jetified-credentials-1.2.0-rc01\res
+com.iqonic.provider.app-jetified-activity-1.10.1-65 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\8deb427eedf03d9c67ac75f78f177b2b\transformed\jetified-activity-1.10.1\res
+com.iqonic.provider.app-jetified-core-common-2.0.4-66 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\8fb0c5af3df7b611b04cb1a784c0c096\transformed\jetified-core-common-2.0.4\res
+com.iqonic.provider.app-jetified-swipe-layout-android-1.0.17-67 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\957e8807542b8e35664e75b7af308449\transformed\jetified-swipe-layout-android-1.0.17\res
+com.iqonic.provider.app-lifecycle-livedata-core-2.8.7-68 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\9655baa2b4b6868c1078ab37525406b7\transformed\lifecycle-livedata-core-2.8.7\res
+com.iqonic.provider.app-jetified-android-maps-utils-3.6.0-69 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\994839ef8ba40837cbd44ba40534def6\transformed\jetified-android-maps-utils-3.6.0\res
+com.iqonic.provider.app-jetified-ui-text-release-70 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\9a5c42ffbd158a4837e3593c017d898a\transformed\jetified-ui-text-release\res
+com.iqonic.provider.app-drawerlayout-1.1.1-71 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\9b5243f3205c8cb0cf6c941458a4fa32\transformed\drawerlayout-1.1.1\res
+com.iqonic.provider.app-jetified-stripe-3ds2-android-6.2.0-72 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\9f9d100e82a45279c96bfab34778d10c\transformed\jetified-stripe-3ds2-android-6.2.0\res
+com.iqonic.provider.app-jetified-activity-compose-1.10.1-73 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\a3bd00193af4164f3c1fb4898917f145\transformed\jetified-activity-compose-1.10.1\res
+com.iqonic.provider.app-webkit-1.14.0-74 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\a4fce6686fb6f167781c1f38f3092cac\transformed\webkit-1.14.0\res
+com.iqonic.provider.app-jetified-firebase-crashlytics-19.4.4-75 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\a5baafd16477a43ae53c71216a3d5e99\transformed\jetified-firebase-crashlytics-19.4.4\res
+com.iqonic.provider.app-jetified-runtime-release-76 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\a985aa8077c3acca860027728062d871\transformed\jetified-runtime-release\res
+com.iqonic.provider.app-material-1.12.0-77 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\ae3f9cda7deaa81fcded62c922a3fb84\transformed\material-1.12.0\res
+com.iqonic.provider.app-jetified-issuetracker-1.12.0-SANDBOX-78 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\b25a9fcb0ba22bf02112f23ea6e9d06b\transformed\jetified-issuetracker-1.12.0-SANDBOX\res
+com.iqonic.provider.app-slidingpanelayout-1.2.0-79 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\b265a484a12b85cf62a3bf4eef2d3385\transformed\slidingpanelayout-1.2.0\res
+com.iqonic.provider.app-jetified-payments-ui-core-21.6.0-80 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\b3cbfbe3c922e7d00afcd0cd487c5120\transformed\jetified-payments-ui-core-21.6.0\res
+com.iqonic.provider.app-jetified-viewpager2-1.1.0-beta02-81 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\b5392e2623db7fc2caf5ee2e55cbacea\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.iqonic.provider.app-jetified-corekit-1.31.1-SANDBOX-82 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\b9fe7c3ae8d80bdcf0b78b1c3c78ad83\transformed\jetified-corekit-1.31.1-SANDBOX\res
+com.iqonic.provider.app-jetified-activity-ktx-1.10.1-83 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\bda34548e5e4b8553c0501e5594e4bcd\transformed\jetified-activity-ktx-1.10.1\res
+com.iqonic.provider.app-jetified-lifecycle-viewmodel-savedstate-2.8.7-84 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\be9ecf85857f102c7224053c2c2899e4\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.7\res
+com.iqonic.provider.app-jetified-accompanist-themeadapter-appcompat-0.34.0-85 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\bf5a6a33413553577c67f507d1126787\transformed\jetified-accompanist-themeadapter-appcompat-0.34.0\res
+com.iqonic.provider.app-jetified-startup-runtime-1.1.1-86 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\c21e012ce27fead57e0e4ecbae48a1af\transformed\jetified-startup-runtime-1.1.1\res
+com.iqonic.provider.app-jetified-SmsVerifyCatcher-0.3.3-87 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\c56349ef5663bb5780df8ea919e5fa64\transformed\jetified-SmsVerifyCatcher-0.3.3\res
+com.iqonic.provider.app-jetified-credentials-play-services-auth-1.2.0-rc01-88 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\c5860b85b647f81cd56cf31ad11248d5\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.iqonic.provider.app-jetified-uikit-1.31.1-SANDBOX-89 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\c9740a18cd23f7335410dfce47bb952f\transformed\jetified-uikit-1.31.1-SANDBOX\res
+com.iqonic.provider.app-jetified-customview-poolingcontainer-1.0.0-90 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\cabde10d6462018c9fa00315e818470c\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.iqonic.provider.app-jetified-lifecycle-viewmodel-ktx-2.8.7-91 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\cc36ddd72ba85c0ed6916a9f3f316ca5\transformed\jetified-lifecycle-viewmodel-ktx-2.8.7\res
+com.iqonic.provider.app-fragment-1.8.6-92 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\cd2e1ce2c24235b83af701285acad444\transformed\fragment-1.8.6\res
+com.iqonic.provider.app-jetified-material-release-93 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\cd7e1c76079bb23d483fe3cc60bf18ff\transformed\jetified-material-release\res
+com.iqonic.provider.app-jetified-foundation-layout-release-94 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\d1162b4d6d9d5106755bb0fe69ce2d9a\transformed\jetified-foundation-layout-release\res
+com.iqonic.provider.app-jetified-lifecycle-process-2.8.7-95 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\d78d5e1a0fb412a42b0d8b6e9acb6635\transformed\jetified-lifecycle-process-2.8.7\res
+com.iqonic.provider.app-core-runtime-2.2.0-96 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\db30a3dbbc7de1ac0510dd6cc55eedc5\transformed\core-runtime-2.2.0\res
+com.iqonic.provider.app-cardview-1.0.0-97 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\db5f229788c98563a0afe6f856c27d77\transformed\cardview-1.0.0\res
+com.iqonic.provider.app-jetified-firebase-common-21.0.0-98 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\de7e0d34bfeefb6224a9b9bf10c1413f\transformed\jetified-firebase-common-21.0.0\res
+com.iqonic.provider.app-jetified-play-services-basement-18.5.0-99 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\e058737b51292a470951277109eb80fd\transformed\jetified-play-services-basement-18.5.0\res
+com.iqonic.provider.app-jetified-billing-8.0.0-100 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\e24e35d3c4f8bfebe5c1a896ae51c5de\transformed\jetified-billing-8.0.0\res
+com.iqonic.provider.app-jetified-ads-adservices-java-1.1.0-beta11-101 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\e3fb07d9e72316601b3265476a3a5a8d\transformed\jetified-ads-adservices-java-1.1.0-beta11\res
+com.iqonic.provider.app-navigation-runtime-ktx-2.7.7-102 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\e4e3979eecce81234a95c94b56c4acbc\transformed\navigation-runtime-ktx-2.7.7\res
+com.iqonic.provider.app-jetified-firebase-messaging-24.1.2-103 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\e8bd9e5fd68949b39487acfe54aa7daa\transformed\jetified-firebase-messaging-24.1.2\res
+com.iqonic.provider.app-jetified-glide-4.12.0-104 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\eafbadb570725d7694ef0244fe56afcc\transformed\jetified-glide-4.12.0\res
+com.iqonic.provider.app-browser-1.8.0-105 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\ebc3d235902f7a3790597b60e5b82790\transformed\browser-1.8.0\res
+com.iqonic.provider.app-lifecycle-livedata-2.8.7-106 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\ecc08020e500e32e9ceb905ed2242069\transformed\lifecycle-livedata-2.8.7\res
+com.iqonic.provider.app-transition-1.5.0-107 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\ece47162643ab0c2e08a85946f8b61ae\transformed\transition-1.5.0\res
+com.iqonic.provider.app-coordinatorlayout-1.1.0-108 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\eec58e28461a9336094b4830d56c7e3f\transformed\coordinatorlayout-1.1.0\res
+com.iqonic.provider.app-jetified-lifecycle-viewmodel-compose-release-109 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\f692b01846df7c6161da897fff272f60\transformed\jetified-lifecycle-viewmodel-compose-release\res
+com.iqonic.provider.app-jetified-accompanist-themeadapter-material3-0.34.0-110 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\f7a025778ee454eac35dc769bd990cf6\transformed\jetified-accompanist-themeadapter-material3-0.34.0\res
+com.iqonic.provider.app-navigation-runtime-2.7.7-111 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\f881e8226b0fd1292e6d4c8ff90f5522\transformed\navigation-runtime-2.7.7\res
+com.iqonic.provider.app-localbroadcastmanager-1.1.0-112 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\fb70f2f9ac467fc7c91ee63fd7bf9168\transformed\localbroadcastmanager-1.1.0\res
+com.iqonic.provider.app-jetified-lifecycle-runtime-compose-release-113 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\fbe3a36bd4bcbb0865b1d2a93e4c349f\transformed\jetified-lifecycle-runtime-compose-release\res
+com.iqonic.provider.app-jetified-stripe-core-21.6.0-114 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\fd15897db64bf305f62f856021950fa0\transformed\jetified-stripe-core-21.6.0\res
+com.iqonic.provider.app-jetified-window-1.2.0-115 C:\Users\Albatrosstech\.gradle\caches\8.11.1\transforms\ff0f36eb1b51c9c553d1daef5c4db70c\transformed\jetified-window-1.2.0\res
+com.iqonic.provider.app-debug-116 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\android\app\src\debug\res
+com.iqonic.provider.app-main-117 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\android\app\src\main\res
+com.iqonic.provider.app-pngs-118 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\app\generated\res\pngs\debug
+com.iqonic.provider.app-res-119 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\app\generated\res\processDebugGoogleServices
+com.iqonic.provider.app-resValues-120 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\app\generated\res\resValues\debug
+com.iqonic.provider.app-packageDebugResources-121 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.iqonic.provider.app-packageDebugResources-122 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.iqonic.provider.app-debug-123 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\app\intermediates\merged_res\debug\mergeDebugResources
+com.iqonic.provider.app-debug-124 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\cloud_firestore\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-125 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\connectivity_plus\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-126 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\device_info_plus\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-127 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\file_picker\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-128 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\firebase_auth\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-129 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\firebase_core\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-130 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\firebase_crashlytics\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-131 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\firebase_database\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-132 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\firebase_messaging\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-133 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\firebase_storage\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-134 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\flutter_custom_tabs_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-135 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\flutter_inappwebview_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-136 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\flutter_local_notifications\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-137 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\flutter_paystack\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-138 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-139 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\fluttertoast\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-140 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\geocoding_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-141 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\geolocator_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-142 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\google_maps_flutter_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-143 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\image_picker_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-144 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\midpay\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-145 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\nb_utils\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-146 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\package_info_plus\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-147 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\path_provider_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-148 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\permission_handler_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-149 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\phonepe_payment_sdk\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-150 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\purchases_flutter\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-151 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\razorpay_flutter\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-152 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\share_plus\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-153 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\shared_preferences_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-154 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\sqflite_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-155 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\stripe_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-156 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\syncfusion_flutter_pdfviewer\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-157 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\url_launcher_android\intermediates\packaged_res\debug\packageDebugResources
+com.iqonic.provider.app-debug-158 D:\latest\Mobile app\provider-handyman app\provider_flutter_v11.14.3\build\webview_flutter_android\intermediates\packaged_res\debug\packageDebugResources
